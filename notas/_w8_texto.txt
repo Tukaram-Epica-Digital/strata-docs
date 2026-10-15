@@ -1,0 +1,96 @@
+747 147 | Certificate of Foreign Status of Beneficial Owner for United
+743 56 | W-8BEN
+743 36 | Form
+735 169 | States Tax Withholding and Reporting (Individuals)
+725 36 | (Rev. October  2021)
+724 500 | OMB No. 1545-1621
+724 192 | ▶
+723 200 | For use by individuals. Entities must use Form W-8BEN-E.
+715 159 | ▶
+712 165 | www.irs.gov/FormW8BEN
+712 165 | for instructions and the latest information.
+712 165 | Go to
+709 36 | Department of the Treasury
+702 165 | ▶
+702 36 | Internal Revenue Service
+701 173 | Give this form to the withholding agent or payer. Do not send to the I
+686 36 | Do NOT use this form if: Instead, use Form:
+673 36 | • You are NOT an individual . . . . . . . . . . . . . . . . . . . . . 
+659 36 | • You are a U.S. citizen or other U.S. person, including a resident al
+645 36 | • You are a beneficial owner claiming that income is effectively conne
+636 43 | (other than personal services) . . . . . . . . . . . . . . . . . . . .
+621 36 | • You are a beneficial owner who is receiving compensation for persona
+607 36 | • You are a person acting as an intermediary . . . . . . . . . . . . .
+591 36 | Note:
+591 36 | If you are resident in a FATCA partner jurisdiction (that is, a Model 
+582 36 | provided to your jurisdiction of residence.
+567 86 | Identification of Beneficial Owner
+567 86 | (see instructions)
+567 41 | Part I
+556 380 | Country of citizenship
+556 380 | 2
+556 46 | Name of individual who is the beneficial owner
+556 46 | 1
+532 313 | Do not use a P.O. box or in-care-of address.
+532 46 | Permanent residence address (street, apt. or suite no., or rural route
+532 46 | 3
+508 445 | Country
+508 64 | City or town, state or province. Include postal code where appropriate
+484 46 | Mailing address (if different from above)
+484 46 | 4
+460 445 | Country
+460 64 | City or town, state or province. Include postal code where appropriate
+436 65 | U.S. taxpayer identification number (SSN or ITIN), if required (see in
+436 46 | 5
+410 310 | Check if FTIN not legally required . . . . . . . . . . .
+410 295 | 6b
+410 42 | Foreign tax identifying number (see instructions)
+410 42 | 6a
+386 298 | Date of birth (MM-DD-YYYY) (see instructions)
+386 298 | 8
+386 46 | Reference number(s) (see instructions)
+386 46 | 7
+363 86 | Claim of Tax Treaty Benefits
+363 86 | (for chapter 3 purposes only) (see instructions)
+363 40 | Part II
+351 65 | I certify that the beneficial owner is a resident of within the meanin
+351 46 | 9
+338 65 | treaty between the United States and that country.
+327 65 | (if applicable—see instructions): The beneficial owner is claiming the
+327 42 | 10 Special rates and conditions
+315 188 | the treaty identified on line 9 above to claim a % rate of withholding
+315 178 | of
+303 571 | .
+291 65 | Explain the additional conditions in the Article and paragraph the ben
+267 86 | Certification
+267 38 | Part III
+254 36 | Under penalties of perjury, I declare that I have examined the informa
+242 36 | •
+242 36 | I am the individual that is the beneficial owner (or am authorized to 
+234 43 | relates or am using this form to document myself for chapter 4 purpose
+223 36 | •
+223 36 | The person named on line 1 of this form is not a U.S. person;
+211 36 | •
+211 36 | This form relates to:
+199 43 | (a) income not effectively connected with the conduct of a trade or bu
+187 43 | (b) income effectively connected with the conduct of a trade or busine
+175 43 | (c) the partner’s share of a partnership’s effectively connected taxab
+163 43 | (d) the partner’s amount realized from the transfer of a partnership i
+151 36 | •
+151 36 | The person named on line 1 of this form is a resident of the treaty co
+139 36 | •
+139 36 | For broker transactions or barter exchanges, the beneficial owner is a
+125 36 | Furthermore, I authorize this form to be provided to any withholding a
+118 253 | I agree that I will submit a new form within 30 days if any certificat
+118 36 | disburse or make payments of the income of which I am the beneficial o
+102 95 | ▲
+99 122 | I certify that I have the capacity to sign for the person identified o
+88 36 | Sign Here
+64 471 | Date (MM-DD-YYYY)
+64 139 | Signature of beneficial owner (or individual authorized to sign for be
+40 108 | Print name of signer
+26 528 | (Rev. 10-2021)
+26 488 | W-8BEN
+26 470 | Form
+26 345 | Cat. No. 25047Z
+26 36 | For Paperwork Reduction Act Notice, see separate instructions.
